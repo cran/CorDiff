@@ -1,0 +1,11 @@
+575f5fb2220c2d31dbd46d0de91c1ae8 *DESCRIPTION
+b36e5215c14e04af4dddf23a6bcc9b07 *NAMESPACE
+4caf8596947a5a9f31f409cab70e11d5 *R/Qresid.R
+6314fd77b26f86be7b58786532f7cd2b *R/fastresid.R
+bf53f7278b3c8afbed59922a813087a9 *R/getMpfast.R
+a3b24f00a8a2f30974ec31b7c0a4624a *data/x.rda
+d16a2a9c19fdc4e3ebae10bd1c28e33f *man/CorDiff-package.Rd
+2d3407ab0f8b7dbe2af5608aa6bfe152 *man/Qresid.Rd
+b870a560e46fead2a596307a2435d635 *man/fastresid.Rd
+47aeb39b477a8ba0084a45eeabce369e *man/getMpfast.Rd
+01cd0885575876bc117346c81f05600c *man/x.Rd
